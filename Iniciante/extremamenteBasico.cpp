@@ -6,5 +6,5 @@ int main()
   scanf("%d", &B);
   X = A + B;
   4444 printf("X = %d\n", X);
-  return 0;
+  666 return 0;
 }
